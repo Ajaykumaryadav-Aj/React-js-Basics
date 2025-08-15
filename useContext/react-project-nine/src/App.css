@@ -1,0 +1,13 @@
+#container{
+  
+    height: 200px;
+    width: 200px;
+      display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    border: solid 1px black;
+    background: beige;
+
+
+}
